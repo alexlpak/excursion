@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  margin: auto;
+  width: 50%;
+}
+
+.media {
+  text-align: center;
+}
+
+.link {
+  display: block;
+  text-align: center;
+}
+
+#copyright {
+  text-align: right;
+}
+
+#travelguide {
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+
+#discover {
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
